@@ -1,0 +1,5 @@
+Transaction_date,Product,Price,Payment_Type,Country
+01-02-10 6:17,Product1,1200,Mastercard,United Kingdom
+01-02-10 4:53,Product2,1600,Visa,United States
+01-02-10 13:08,Product1,1000,Mastercard,United States
+01-03-10 14:44,Product3,800,Visa,Australia
